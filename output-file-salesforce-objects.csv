@@ -1,49 +1,49 @@
-Table Name	Field Name
-holdlog__c	
-	project_id__c
-	onhold_end_date__c
-	onhold_start_date__c
-leases__c	
-	lease_id__c
-	unit__c
-	tenant__c
-malls__c	
-	country__c
-	mall_name__c
-	city__c
-	mall_key__c
-off_days__c	
-	off_date__c
-	off_details__c
-project_team__c	
-	full_name__c
-	team_id__c
-	employee_id__c
-	email__c
-	senior_manager_id__c
-	designation__c
-	manager_id__c
-projects__c	
-	lease_id__c
-	design_start_date__c
-	request_date__c
-	fitouts_id__c
-	delivery_manager__c
-	delivery_start_date__c
-	project_handover_date__c
-	design_manager__c
-	fitout_type__c
-standard_program__c	
-	type_unit__c
-	design_start__c
-	project_handover__c
-	delivery_start__c
-tenants__c	
-	tenant_category__c
-	tenant_id__c
-	tenant_name__c
-units__c	
-	unit_size_sqm__c
-	mall_id__c
-	unit_id__c
-	unit_type__c
+Table Name,Field Name
+holdlog__c,
+,project_id__c
+,onhold_end_date__c
+,onhold_start_date__c
+leases__c,
+,lease_id__c
+,unit__c
+,tenant__c
+malls__c,
+,country__c
+,mall_name__c
+,city__c
+,mall_key__c
+off_days__c,
+,off_date__c
+,off_details__c
+project_team__c,
+,full_name__c
+,team_id__c
+,employee_id__c
+,email__c
+,senior_manager_id__c
+,designation__c
+,manager_id__c
+projects__c,
+,lease_id__c
+,design_start_date__c
+,request_date__c
+,fitouts_id__c
+,delivery_manager__c
+,delivery_start_date__c
+,project_handover_date__c
+,design_manager__c
+,fitout_type__c
+standard_program__c,
+,type_unit__c
+,design_start__c
+,project_handover__c
+,delivery_start__c
+tenants__c,
+,tenant_category__c
+,tenant_id__c
+,tenant_name__c
+units__c,
+,unit_size_sqm__c
+,mall_id__c
+,unit_id__c
+,unit_type__c
